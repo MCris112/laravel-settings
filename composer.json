@@ -1,7 +1,7 @@
 {
     "name": "mcris112/settings",
     "description": "Laravel package to use settings in your app",
-    "keywords": ["laravel", "settings"],
+    "keywords": ["laravel", "settings", "Database"],
     "license": "MIT",
     "autoload": {
         "psr-4": {
